@@ -1,5 +1,5 @@
 # FlaskServer
-Server used as the backend for AR apps made in Unity. Parses API data
+Server used to locally view JSON from what was XML
 
 To run:
 pip install -r requirements.txt
