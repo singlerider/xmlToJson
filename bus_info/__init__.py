@@ -1,10 +1,8 @@
 from flask import Flask, Blueprint, jsonify
-from xml.etree import ElementTree
 
 import json
 import requests
 import xmltodict
-import ast
 
 app = Blueprint('bus_info', __name__)
 
